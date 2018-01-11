@@ -3,9 +3,14 @@ ToxicFlame.option = Menu.AddOption({ "Utility", "Toxic Flame" }, "Enable", "Flam
 ToxicFlame.needsInit = true
 
 ToxicFlame.englishPhrase = {
-	"fuck you cunt",
-	"yeah you are bad.",
-	"how's hell looks like?"
+	"ПОДОХНИ, ДЕТДОМОВЕЦ ЕБАНЫЙ!",
+	"ОТСОСАЛ ОГРОМНУЮ ПИСЬКУ.",
+	"У ТЕБЯ С РОЖДЕНИЯ ТАКИЕ ПРОБЛЕМЫ?"
+	"ВАШЕГО ФИДЕРА В ХИМКАХ ВИДАЛ, ДЕРЕВЯННЫМИ ЧЕЛЕНАМИ ТОРУГЕТ."
+	"- ПАССИВНЫЙ БОТ!"
+	"МНЕ ИНТЕРЕСНО, ТЫ ИНВАЛИД ОТ РОЖДЕНИЯ?"
+	"Я ДАЖЕ НЕ ЗАМЕТИЛ КАК ТЫ СДОХ, ДЕТДОМОВЕЦ!"
+	"ЛС ОБОССАНЫЙ!"
 }
 
 ToxicFlame.enemyData1 = {}
